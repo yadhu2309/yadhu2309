@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I’m a self-taught developer<br>🔭 I’m a job seeker<br>💻 I’m eager to new technologies<br>💬 Ask me web development<br>
+📖 I’m a self-taught developer<br>💻 I’m eager to new technologies<br>💬 Ask me web development<br>
 
 
 ## 🌐 Socials:
